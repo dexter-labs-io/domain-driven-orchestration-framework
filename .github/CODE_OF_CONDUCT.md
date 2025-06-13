@@ -9,5 +9,5 @@ We expect everyone to act with respect, kindness, and professionalism.
 ## Enforcement
 
 Violations can be reported to the maintainers at:
-📧 dev@dexterlabs.io
+📧 opensource@dexterlabs.io
 
