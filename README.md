@@ -56,5 +56,5 @@ DDO provides a structured control plane to:
 ```bash
 # Coming Soon: CLI installation & bootstrap guide
 
-git clone https://github.com/YOUR-ORG/ddo.git
+git clone https://github.com/dexter-labs-io/domain-driven-orchestration-framework.git
 cd ddo
